@@ -1,5 +1,5 @@
 print("...................welcome to advanced calculator........... \n ")
-for i in range (1,100000000):
+while True:
     print ("chose your option.....\n \n1. single number \n2. multiple number \n")
 
     u_i = int(input("type your option :- "))
